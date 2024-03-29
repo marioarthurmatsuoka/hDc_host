@@ -14,7 +14,7 @@
     padding: 0 6rem;
   }
 
-  .searchdomain-container {
+  .search {
     padding: 2rem 4rem;
   }
 }
@@ -35,11 +35,11 @@
     padding: 0 2rem;
   }
 
-  .services-container ul {
+  .container-services ul {
     flex-direction: column;
   }
 
-  .plans-container {
+  .container-plans {
     flex-direction: column;
     width: 100%;
     padding: 0 2rem;
@@ -51,20 +51,20 @@
     margin-bottom: 15px;
   }
 
-  .searchdomain-container h2 {
+  .search h2 {
     font-size: 28px;
   }
 
-  .searchdomain-container input[type="text"] {
+  .search input[type="text"] {
     width: 100%;
   }
 
-  .contact-container {
+  .contact {
     padding: 3rem 2rem;
   }
 
-  .contact-container input,
-  .contact-container textarea {
+  .contact input,
+  .contact textarea {
     width: 100%;
     margin: 10px 0;
   }
